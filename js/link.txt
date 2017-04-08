@@ -1,0 +1,2 @@
+https://github.com/intel-iot-devkit/upm/tree/master/examples/javascript
+https://github.com/intel-iot-devkit/iot-devkit-samples
